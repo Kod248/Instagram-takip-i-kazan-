@@ -1,0 +1,8 @@
+echo "# Instagram-takip-i-kazan-" >> README.md 
+git init 
+git add README.md 
+git comit follow 100 Instagram 
+git commit -m "ilk commit" 
+git branch -M main 
+git remote add origin https://github.com/Kod248/Instagram-takip-i-kazan-.git
+ git push -u origin main
